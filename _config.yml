@@ -3,6 +3,8 @@ exclude: ['README.md']
 permalink: pretty
 title: 'sabahIOT'
 
+google_verify: LsqYkTERTj-swbXMW0PDOYcPCvj3l8IzB8uepUKXWos
+
 collections:
   services:
     output: true
