@@ -1,20 +1,21 @@
-baseurl: ''
+url: 'https://sabah-iot.web.app'
 exclude: ['README.md']
 permalink: pretty
 title: 'sabahIOT'
+
 
 google_verify: LsqYkTERTj-swbXMW0PDOYcPCvj3l8IzB8uepUKXWos
 
 collections:
   services:
     output: true
-    permalink: /services/:path/
+    permalink: /services/:path
   team:
     output: true
-    permalink: /team/:path/
+    permalink: /team/:path
   testimonials:
     output: true
-    permalink: /testimonials/:path/
+    permalink: /testimonials/:path
 
 defaults:
   - scope:
@@ -34,3 +35,5 @@ google_analytics_id: null
 
 plugins:
   - jekyll-environment-variables
+  - jekyll-sitemap
+  - jekyll-seo-tag
