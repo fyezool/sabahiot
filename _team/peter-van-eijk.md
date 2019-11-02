@@ -1,11 +1,10 @@
 ---
-title: 'Peter Van Eijk'
-image: '/images/team/peter-van-eijk-711986-unsplash.jpg'
+title: 'Faizal bin Hadiman'
+image: '/images/team/sabah_iot-faizal.jpg'
 jobtitle: 'Director'
 email: 'peter@test.com'
-linkedinurl: 'https://www.linkedin.com/'
+linkedinurl: 'https://www.linkedin.com/in/faizal-hadiman-4881524b/'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Faizal Hadiman graduated from University Malaysia Sabah with Bachelor in Mechanical Engineering and have vast experience with engineering, HVAC, maintenance and servicing. Currently working at Unsur Hebat at Kota Kinabalu, responsible for overseeing the whole operation offshore and onshore.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.

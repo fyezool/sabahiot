@@ -1,7 +1,7 @@
 .page-team-list {
-  background-image: url('../images/undraw_hang_out_h9ud.svg');
+  //background-image: url('../images/sabah-iot.png');
   background-repeat: no-repeat;
-  background-size: 115%;
+  background-size: 60%;
   background-position: 49px -40px;
   @include media-breakpoint-up(sm) {
     background-size: 90%;
@@ -13,6 +13,6 @@
   }
   @include media-breakpoint-up(lg) {
     background-size: 60%;
-    background-position: 100% -110px;
+    background-position: 90% -110px;
   }
 }
