@@ -9,13 +9,10 @@ google_verify: LsqYkTERTj-swbXMW0PDOYcPCvj3l8IzB8uepUKXWos
 collections:
   services:
     output: true
-    permalink: /services/:path
+    permalink: /services/:path/
   team:
     output: true
-    permalink: /team/:path
-  testimonials:
-    output: true
-    permalink: /testimonials/:path
+    permalink: /team/:path/
 
 defaults:
   - scope:

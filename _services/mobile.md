@@ -1,6 +1,6 @@
 ---
-title: "Mobile"
-image: "/services/default.png"
+title: 'Mobile'
+image: '/services/default.png'
 ---
 
 SabahIOT also provide mobile application development to cater the HVAC monitoring service. Mobile option for monitoring can be ubiquitous since its a critical component for operation offshore and onshore.
